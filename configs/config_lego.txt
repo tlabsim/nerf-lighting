@@ -1,6 +1,6 @@
 expname = lego_test
-basedir = ./logs
-datadir = ./data/nerf_synthetic/lego
+basedir = /logs
+datadir = /data/nerf_synthetic/lego
 dataset_type = blender
 
 half_res = True

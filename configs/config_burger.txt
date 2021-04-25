@@ -1,6 +1,6 @@
 expname = burger
-basedir = ./data/burger/logs
-datadir = ./data/burger/
+basedir = /data/burger/logs
+datadir = /data/burger/
 dataset_type = llff
 
 factor = 4

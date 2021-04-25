@@ -1,6 +1,6 @@
 expname = veg
-basedir = ./data/veg/logs
-datadir = ./data/veg/
+basedir = /data/veg/logs
+datadir = /data/veg/
 dataset_type = llff
 
 factor = 4

@@ -1,6 +1,6 @@
 expname = rubiks
-basedir = ./data/rubiks/cropped/logs
-datadir = ./data/rubiks/cropped/
+basedir = /data/rubiks/cropped/logs
+datadir = /data/rubiks/cropped/
 dataset_type = llff
 
 factor = 2

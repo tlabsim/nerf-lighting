@@ -1,6 +1,6 @@
-expname = rubiks2
-basedir = /data/rubiks2/logs
-datadir = /data/rubiks2/
+expname = rubiks_rgba2
+basedir = ./data/rubiks_rgba2/logs/
+datadir = ./data/rubiks_rgba2/
 dataset_type = llff
 
 factor = 2
@@ -16,3 +16,5 @@ N_importance = 128
 use_viewdirs = True
 raw_noise_std = 1e0
 
+rgba=True
+LL = 4

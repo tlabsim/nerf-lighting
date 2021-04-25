@@ -1,5 +1,5 @@
 expname = dvox_greek_test
-basedir = ./logs
+basedir = /logs
 # datadir = /your/path/to/deepvoxels/data
 dataset_type = deepvoxels
 shape = greek
