@@ -1,0 +1,18 @@
+expname = burger
+basedir = ./data/burger/logs
+datadir = ./data/burger/
+dataset_type = llff
+
+factor = 4
+llffhold = 8
+
+no_ndc = True
+spherify = True
+
+N_rand = 1024
+N_samples = 64
+N_importance = 128
+
+use_viewdirs = True
+raw_noise_std = 1e0
+
